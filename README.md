@@ -32,10 +32,12 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 
 > 注：此图出自[大学计算机知识要点总结_思维导图](https://www.processon.com/view/61162a510e3e7407d39eeee5?fromnew=1)。
 
-![](/images/computer-science-fundamentals.jpg)
+![大学计算机知识要点总结](/images/computer-science-fundamentals.jpg)
 
 ## 知识图谱
 
-TBD
+我们将对以下知识图谱中涉及到的云计算与云原生相关技术产品和开源项目的基本概念、应用场景、使用示例进行讲解，此知识图谱主要根据[青云公有云](qingcloud.com)和 [KubeSphere](kubesphere.io) 涉及的产品与生态软件进行归类，目前还是一份初稿，后续将会横向与纵向地延展，欢迎大家对内容提供建议与反馈。后期的使用教程也会主要使用[青云公有云](qingcloud.com)与 [Katacoda](katacoda.com) 这两个平台作为示例来演示。
+
+![云计算与云原生](/images/cloud-computing-mind-map.jpg)
 
 
