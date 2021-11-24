@@ -4,7 +4,7 @@
 
 然而，云计算领域的技术概念与软件生态非常庞杂，云计算产品与服务也层出不穷，对于非技术与科班出身的人士理解起来并非易事。即使是全球最为流行的容器技术 Kubernetes 与 Docker，在大多数专业技术从业人士来看，[复杂度也依然是最大的挑战](https://www.cncf.io/wp-content/uploads/2020/11/CNCF_Survey_Report_2020.pdf)。
 
-最近我身边有越来越多的朋友和同事初入云计算行业，面对专业和复杂的云计算与云原生相关产品与技术，在自学过程中也会有些许地感到无从入手，网上找到的文档与视频学习资料大多是面向工程师人群，而对于从事云计算行业的运营、市场、文档、销售、渠道等角色，或是萌新实习生来说，这些资料很难系统地帮助到非技术人士入门和了解云计算产品与技术，大部分官方文档对于非技术背景出身的人群通常较为晦涩难懂。
+最近我身边也有越来越多的新同事初入云计算行业，面对专业和复杂的云计算与云原生相关产品与技术，在自学过程中也会有些许地感到无从入手，网上找到的文档与视频学习资料大多是面向工程师人群，而对于从事云计算行业的运营、市场、文档、销售、渠道等角色，或是萌新实习生来说，这些资料很难系统地帮助到非技术人士入门和了解云计算产品与技术，大部分官方文档对于非技术背景出身的人群通常较为晦涩难懂。
 
 ## 什么是 Cloud Computing 101
 
@@ -52,3 +52,16 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 
 - 腾讯会议地址：https://meeting.tencent.com/dm/K1UmYqwxXODx
 - 会议号：：750 4735 1399
+
+## 历史回放
+
+### 第一期：什么是 IaaS、PaaS 和 SaaS
+
+分享时间：2021 年 11 月 24 日 
+
+- [视频回放](https://yunify.anybox.qingcloud.com/s/0AkMO2LvjreQJV1KsQUSnNTaHMXmiIcZ)
+- [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
+
+## 贡献者讲师（欢迎加入）
+
+- [Feynman Zhou](https://github.com/FeynmanZhou/)
