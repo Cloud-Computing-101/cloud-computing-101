@@ -55,13 +55,31 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 
 ## 历史回放
 
-### 第一期：什么是 IaaS、PaaS 和 SaaS
+### 第一期：云计算基础 - 什么是 IaaS、PaaS 和 SaaS
 
 分享时间：2021 年 11 月 24 日 
 
 - [视频回放](https://yunify.anybox.qingcloud.com/s/0AkMO2LvjreQJV1KsQUSnNTaHMXmiIcZ)
 - [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
 
+### 第二期：云计算基础 - 虚拟化、容器云、超融合
+
+分享时间：2021 年 12 月 1 日
+
+TBD
+
+### 第三期：计算 - 云服务器、物理机、GPU、镜像
+
+分享时间：2021 年 12 月 3 日
+
+TBD
+
 ## 贡献者讲师（欢迎加入）
 
 - [Feynman Zhou](https://github.com/FeynmanZhou/)
+
+## 微信群
+
+欢迎加入 Cloud Computing 101 微信交流群。
+
+![](https://kubesphere-community.pek3b.qingstor.com/images/8761637924506_.pic_hd.jpg)
