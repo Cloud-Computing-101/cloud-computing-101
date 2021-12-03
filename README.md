@@ -62,13 +62,14 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - [视频回放](https://yunify.anybox.qingcloud.com/s/0AkMO2LvjreQJV1KsQUSnNTaHMXmiIcZ)
 - [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
 
-### 第二期：云计算基础 - 虚拟化、容器云、超融合
+### 第二期：云计算基础 - Docker 与 Kubernetes 容器云
 
 分享时间：2021 年 12 月 1 日
 
-TBD
+- [视频回放（此次会议忘录屏了）](https://yunify.anybox.qingcloud.com/s/PhhMhS81MKw3IJOKeaufswL23QzfGshF)
+- [PPT](https://yunify.anybox.qingcloud.com/s/PhhMhS81MKw3IJOKeaufswL23QzfGshF)
 
-### 第三期：计算 - 云服务器、物理机、GPU、镜像
+### 第三期：计算 - 了解虚拟化技术与虚拟机
 
 分享时间：2021 年 12 月 3 日
 
