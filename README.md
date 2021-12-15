@@ -69,18 +69,29 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - [视频回放（此次会议忘录屏了）](https://yunify.anybox.qingcloud.com/s/PhhMhS81MKw3IJOKeaufswL23QzfGshF)
 - [PPT](https://yunify.anybox.qingcloud.com/s/PhhMhS81MKw3IJOKeaufswL23QzfGshF)
 
-### 第三期：计算 - 了解虚拟化技术与虚拟机
+### 第三期：计算 - 了解虚拟化技术
 
 分享时间：2021 年 12 月 3 日
 
-TBD
+- [视频回放](https://yunify.anybox.qingcloud.com/s/A3IWwiz5RJrhixpodmT44Lbp7WB0uAIp)
+
+### 第四期：计算 - CPU、GPU、云服务器
+
+分享时间：2021 年 12 月 8 日
+
+- [视频回放](https://yunify.anybox.qingcloud.com/s/A3IWwiz5RJrhixpodmT44Lbp7WB0uAIp)
+- [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
+
+### 第五期：存储 - 文件存储、对象存储、块存储、集中存储与分布式存储
+
+分享时间：2021 年 12 月 15 日
+
+- [视频回放](https://yunify.anybox.qingcloud.com/s/WyTTKWJvIk4iopFx9wtQkYMTIOZU1LCY)
+- [PPT](https://yunify.anybox.qingcloud.com/s/K4i7oJhl3htj78AECAYhBLkdOcgaJKDA)
 
 ## 贡献者讲师（欢迎加入）
 
 - [Feynman Zhou](https://github.com/FeynmanZhou/)
+- 相东
+- 朱波
 
-## 微信群
-
-欢迎加入 Cloud Computing 101 微信交流群。
-
-![](https://kubesphere-community.pek3b.qingstor.com/images/8761637924506_.pic_hd.jpg)
