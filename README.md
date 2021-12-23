@@ -89,6 +89,11 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - [视频回放](https://yunify.anybox.qingcloud.com/s/WyTTKWJvIk4iopFx9wtQkYMTIOZU1LCY)
 - [PPT](https://yunify.anybox.qingcloud.com/s/K4i7oJhl3htj78AECAYhBLkdOcgaJKDA)
 
+### 第六期：存储 - 公有云实操：文件存储、对象存储、块存储
+分享时间：2021 年 12 月 22 日
+
+- [视频回放](https://yunify.anybox.qingcloud.com/s/WyTTKWJvIk4iopFx9wtQkYMTIOZU1LCY)
+
 ## 贡献者讲师（欢迎加入）
 
 - [Feynman Zhou](https://github.com/FeynmanZhou/)
