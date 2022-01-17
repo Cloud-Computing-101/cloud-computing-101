@@ -39,6 +39,10 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 
 ![云计算与云原生](/images/cloud-computing-mind-map.jpg)
 
+## 推荐书籍
+
+推荐大家下载这本电子书：[《图解云计算架构：基础设施和 API》](https://yunify.anybox.qingcloud.com/s/YIlLFSXbk4Vcke0vKV32myPbAAHzTwyh)
+
 ## 如何参与
 
 目前暂定每周一次或两次，将于周三和周五下午 6:00 ~ 6:30 使用腾讯会议的方式进行，双周则每周两次，单周仅周三一次。例如 11 月 22 日是 [2021 年的第 48 周](http://www.rili163.com/dijizhou.html)即双周，因此会有周三和周五两次会议。若遇到临时的会议冲突，可能会调整时间。
