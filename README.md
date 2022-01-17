@@ -93,7 +93,7 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - [PPT](https://yunify.anybox.qingcloud.com/s/K4i7oJhl3htj78AECAYhBLkdOcgaJKDA)
 
 ### 第六期：存储 - 公有云实操：文件存储、对象存储、块存储
-分享时间：2021 年 12 月 22 日
+- 分享时间：2021 年 12 月 22 日
 - 分享人：周鹏飞 - Cloud Computing 101 发起人，KubeSphere 社区经理
 
 - [视频回放](https://yunify.anybox.qingcloud.com/s/AHowYqgn8o5sGKGS1Spxiv2d9a94us0Z)
@@ -101,17 +101,15 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 
 ### 第七期：云基础 - 什么是 API、SDK、CLI、Console
 
-分享时间：2021 年 1 月 5 日
-分享人：周鹏飞 - Cloud Computing 101 发起人，KubeSphere 社区经理
-
+- 分享时间：2021 年 1 月 5 日
+- 分享人：周鹏飞 - Cloud Computing 101 发起人，KubeSphere 社区经理
 - [视频回放](https://yunify.anybox.qingcloud.com/s/I5YQc2gJyPpy32J5Zr2mV4UYh1KteyJi)
 - [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
 
 ### 第八期：网络 - 软件定义网络 SDN 入门
 
-分享时间：2021 年 1 月 12 日
-分享人：赵天宇 - 网络产品经理
-
+- 分享时间：2021 年 1 月 12 日
+- 分享人：赵天宇 - 网络产品经理
 - [视频回放](https://yunify.anybox.qingcloud.com/s/9drMGP5u9pvJln8XpN3JLknhcVFkdSQm)
 - [PPT](https://yunify.anybox.qingcloud.com/s/9SPN2Vn4aH19AjDAxIFtCt256tjIQdb8)
 
