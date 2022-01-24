@@ -117,10 +117,18 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - [视频回放](https://yunify.anybox.qingcloud.com/s/9drMGP5u9pvJln8XpN3JLknhcVFkdSQm)
 - [PPT](https://yunify.anybox.qingcloud.com/s/9SPN2Vn4aH19AjDAxIFtCt256tjIQdb8)
 
+### 第八期：数据库 - 数据库的基本概念、发展史和分类
+
+- 分享时间：2021 年 1 月 12 日
+- 分享人：赵天宇 - 网络产品经理
+- [视频回放](https://yunify.anybox.qingcloud.com/s/JxknP6KwZSeTmtSmgJ6BS59IWA1iGRXf)
+- [PPT](https://yunify.anybox.qingcloud.com/s/BBCkOo0OQkOEJpnNkoe5D9SxxIRrVL3j)
+
 ## 贡献者讲师（欢迎加入）
 
 - [Feynman Zhou](https://github.com/FeynmanZhou/)
 - 相东
 - 朱波
 - 赵天宇
+- 管长龙
 
