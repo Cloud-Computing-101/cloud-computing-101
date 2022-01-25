@@ -120,7 +120,7 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 ### 第八期：数据库 - 数据库的基本概念、发展史和分类
 
 - 分享时间：2021 年 1 月 12 日
-- 分享人：赵天宇 - 网络产品经理
+- 分享人：管长龙 - 数据库社区经理
 - [视频回放](https://yunify.anybox.qingcloud.com/s/JxknP6KwZSeTmtSmgJ6BS59IWA1iGRXf)
 - [PPT](https://yunify.anybox.qingcloud.com/s/BBCkOo0OQkOEJpnNkoe5D9SxxIRrVL3j)
 
