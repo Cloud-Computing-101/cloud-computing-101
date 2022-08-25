@@ -43,13 +43,6 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 
 推荐大家下载这本电子书：[《图解云计算架构：基础设施和 API》](https://yunify.anybox.qingcloud.com/s/YIlLFSXbk4Vcke0vKV32myPbAAHzTwyh)
 
-## 如何参与
-
-点击链接入会，或添加至会议列表：
-https://meeting.tencent.com/dm/1xIrkT1j0AFi
-
-#腾讯会议：993-175-936
-
 ## 排期
 
 | 时间  | 课程内容 | 分享人 |
@@ -62,20 +55,21 @@ https://meeting.tencent.com/dm/1xIrkT1j0AFi
 | 2021.12.22  | 06 存储 - 公有云实操：文件存储、对象存储、块存储 | 周鹏飞 - Cloud Computing 101 发起人，KubeSphere 社区经理 |
 | 2022.1.5  | 07 云基础 - 什么是 API、SDK、CLI、Console | 周鹏飞 - Cloud Computing 101 发起人，KubeSphere 社区经理 |
 | 2022.1.12  | 08 网络 - 软件定义网络 SDN 入门 | 赵天宇 - 网络产品经理 |
-| 2022.1.19  | 09 数据库 - 数据库的基本概念、发展史和分类（上） | 管长龙 - 数据库社区经理 |
-| 2022.1.26  | 10 数据库 - 数据库的基本概念、发展史和分类（下） | 管长龙 - 数据库社区经理 |
+| 2022.1.19  | 09 数据库 - 数据库的基本概念、发展史和分类（上） | 管长龙 - KCN 数据库社区经理 |
+| 2022.1.26  | 10 数据库 - 数据库的基本概念、发展史和分类（下） | 管长龙 - KCN 数据库社区经理 |
 | 2022.7.6   | 特别篇 英语技术文档写作 | 刘玲玲 - KCN 海外运营&文档工程师 |
 | 2022.8.3  | 11 消息队列与中间件 - 浅入浅出消息中间件 | 汪媛媛 - KCN 数据库产品经理 |
+| 2022.8.24  | 特别篇 软件测试了解一下 | 丁源 -  PXD 高级测试工程师 |
 
 
-待定：
+待分享议题：
 - 12 大数据
-- 特别篇 测试   
+- 13 云安全  
 
 ## 课件
 
-- 01 02 03 04 06 07 [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
-- 05 08 09 10 特别篇 11 [PPT](./slides/)
+- 01 02 03 04 06 07 的 [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
+- 05 08 09 10 文档篇 11 测试篇 的 [PPT](./slides/)
 
 视频可在 **北森 OA** 的学习中心检索 *Cloud Computing 101* 查看回放。
 
@@ -85,6 +79,7 @@ https://meeting.tencent.com/dm/1xIrkT1j0AFi
 - 相东
 - 朱波
 - 赵天宇
-- 管长龙
-- 刘玲玲
+- [管长龙](https://github.com/KID-G)
+- [刘玲玲](https://github.com/hayleyling)
 - 汪媛媛
+- [丁源](https://github.com/dingyuan408)
