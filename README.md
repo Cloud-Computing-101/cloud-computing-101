@@ -60,16 +60,16 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 | 2022.7.6   | 特别篇 英语技术文档写作 | 刘玲玲 - KCN 海外运营&文档工程师 |
 | 2022.8.3  | 11 消息队列与中间件 - 浅入浅出消息中间件 | 汪媛媛 - KCN 数据库产品经理 |
 | 2022.8.24  | 特别篇 软件测试了解一下 | 丁源 -  PXD 高级测试工程师 |
+| 2022.9.7 | 12 大数据专题科普 | 迟连义 - KCN 大数据技术专家 |
 
 
 待分享议题：
-- 12 大数据
 - 13 云安全  
 
 ## 课件
 
 - 01 02 03 04 06 07 的 [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
-- 05 08 09 10 文档篇 11 测试篇 的 [PPT](./slides/)
+- 05 08 09 10 文档篇 11 测试篇 12 的 [PPT](./slides/)
 
 视频可在 **北森 OA** 的学习中心检索 *Cloud Computing 101* 查看回放。
 
@@ -83,3 +83,4 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - [刘玲玲](https://github.com/hayleyling)
 - 汪媛媛
 - [丁源](https://github.com/dingyuan408)
+- 迟连义
