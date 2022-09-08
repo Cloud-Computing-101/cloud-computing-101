@@ -71,7 +71,13 @@ Cloud Computing 101 旨在面向上述背景中提到的**非技术背景的云�
 - 01 02 03 04 06 07 的 [PPT](https://docs.google.com/presentation/d/1dIKQQPvRuTxwcgfLKtU1rtnckkddrJhPZj4Hf7PNkBE/edit?usp=sharing)
 - 05 08 09 10 文档篇 11 测试篇 12 的 [PPT](./slides/)
 
-视频可在 **北森 OA** 的学习中心检索 *Cloud Computing 101* 查看回放。
+## 视频
+
+青云同事可在 **北森 OA** 的学习中心检索 *Cloud Computing 101* 查看回放。
+
+新增 B 站资源链接：https://space.bilibili.com/492609252/channel/seriesdetail?sid=2612759
+，欢迎转发关注和一键三连！
+
 
 ## 贡献者讲师（欢迎加入）
 
